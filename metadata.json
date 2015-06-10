@@ -1,0 +1,1 @@
+{"name": "LightDM Locker", "shell-version": ["3.14","3.16"], "description": "Add lock icon to the panel that will lock the session using LightDM", "uuid": "lightdmlocker@glexposito.gmail.com"}
